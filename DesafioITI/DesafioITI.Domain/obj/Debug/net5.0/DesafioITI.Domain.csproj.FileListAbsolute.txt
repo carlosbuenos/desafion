@@ -10,3 +10,15 @@ C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Domain\obj\Debu
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.dll
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\ref\DesafioITI.Domain.dll
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.pdb
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\bin\Debug\net5.0\DesafioITI.Domain.deps.json
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\bin\Debug\net5.0\DesafioITI.Domain.dll
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\bin\Debug\net5.0\ref\DesafioITI.Domain.dll
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\bin\Debug\net5.0\DesafioITI.Domain.pdb
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.csprojAssemblyReference.cache
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.AssemblyInfoInputs.cache
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.AssemblyInfo.cs
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.dll
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\ref\DesafioITI.Domain.dll
+C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.pdb

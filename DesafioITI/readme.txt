@@ -17,7 +17,7 @@ Ex:caso a senha atendesse a todos os critério mas não tivesse no minimo 9 cara
 uma mensagem tratada(A senha deve conter no minimo 9 caracteres);
 
 a responsabilidade de validar se a senha é valida ou não ficou a cargo do próprio dominio
-eu criei uma camada CrossCutting que foi onde implementei a esteira e fiz a chamada de dentro da camada de dominio
+que foi onde implementei a esteira e fiz a chamada de dentro da própria camada
 injetando a inteface por método.
 
 
