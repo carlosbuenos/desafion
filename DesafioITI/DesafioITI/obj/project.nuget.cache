@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5/CyPbpipLw23k8p8E3x/Cc97bIYqZc0WO7PpgkXMjXmjjhkYu/AIcqkkk7csP6XWa/kXWr+FYie9ngy/x+8rQ==",
+  "dgSpecHash": "Z/17uB5sdTFwiuYc0djh+cnb5Ka1nmnco43DcKeP82YPUZE/4n7ATYpBc4QYmZtXlE7gnTfmjmjVbUUOwbipWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI\\DesafioITI.Api.csproj",
+  "projectFilePath": "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI\\DesafioITI.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CarlosRobertoCardoso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\CarlosRobertoCardoso\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

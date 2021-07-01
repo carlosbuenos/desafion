@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MMPLSB21lb4XV5TyJo1Qsg3f5Npq12B/F+ULaIGtCAbKO3OpIrogovmLzQy9WgGTatKDAmdUtrS3ASigYsLtcA==",
+  "dgSpecHash": "+XRWScTQURA8e3bLgjwxbeg7aBbyVSW1t6lvWpfzxddmleTlgRQDmvMpl9KjFHuMcx/KxQwHHl4PB5EWfe9yfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj",
+  "projectFilePath": "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CarlosRobertoCardoso\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\CarlosRobertoCardoso\\.nuget\\packages\\microsoft.codecoverage\\16.6.1\\microsoft.codecoverage.16.6.1.nupkg.sha512",

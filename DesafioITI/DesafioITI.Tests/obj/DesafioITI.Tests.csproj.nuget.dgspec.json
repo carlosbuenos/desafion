@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj": {}
+    "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj": {
+    "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj",
         "projectName": "DesafioITI.Domain",
-        "projectPath": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj",
+        "projectPath": "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj",
         "packagesPath": "C:\\Users\\CarlosRobertoCardoso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj": {
+    "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj",
         "projectName": "DesafioITI.Tests",
-        "projectPath": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj",
+        "projectPath": "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Tests\\DesafioITI.Tests.csproj",
         "packagesPath": "C:\\Users\\CarlosRobertoCardoso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Tests\\obj\\",
+        "outputPath": "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj": {
-                "projectPath": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj"
+              "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj": {
+                "projectPath": "C:\\Users\\CarlosRobertoCardoso\\source\\Repo\\desafion\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj"
               }
             }
           }
