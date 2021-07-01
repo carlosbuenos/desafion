@@ -1,0 +1,12 @@
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\bin\Debug\net5.0\DesafioITI.CrossCutting.deps.json
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\bin\Debug\net5.0\DesafioITI.CrossCutting.dll
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\bin\Debug\net5.0\ref\DesafioITI.CrossCutting.dll
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\bin\Debug\net5.0\DesafioITI.CrossCutting.pdb
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\obj\Debug\net5.0\DesafioITI.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\obj\Debug\net5.0\DesafioITI.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\obj\Debug\net5.0\DesafioITI.CrossCutting.AssemblyInfo.cs
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\obj\Debug\net5.0\DesafioITI.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\obj\Debug\net5.0\DesafioITI.CrossCutting.dll
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\obj\Debug\net5.0\ref\DesafioITI.CrossCutting.dll
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\obj\Debug\net5.0\DesafioITI.CrossCutting.pdb
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Service\obj\Debug\net5.0\DesafioITI.CrossCutting.csprojAssemblyReference.cache
