@@ -14,7 +14,6 @@ C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\
 C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\bin\Debug\net5.0\DesafioITI.Domain.dll
 C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\bin\Debug\net5.0\ref\DesafioITI.Domain.dll
 C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\bin\Debug\net5.0\DesafioITI.Domain.pdb
-C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.csprojAssemblyReference.cache
 C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.AssemblyInfoInputs.cache
 C:\Users\CarlosRobertoCardoso\source\Repo\desafion\DesafioITI\DesafioITI.Domain\obj\Debug\net5.0\DesafioITI.Domain.AssemblyInfo.cs
