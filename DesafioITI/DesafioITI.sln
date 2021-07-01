@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioITI.Api", "DesafioIT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioITI.Domain", "DesafioITI.Domain\DesafioITI.Domain.csproj", "{74B8AE06-C245-45F6-B5F5-BAC720C543EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioITI.CrossCutting", "DesafioITI.Service\DesafioITI.CrossCutting.csproj", "{BEA55CF7-8E5F-4F56-BA9D-B28DA2A3137A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioITI.Tests", "DesafioITI.Tests\DesafioITI.Tests.csproj", "{E125C843-54D8-4490-8E7B-1D9CAA4A2063}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{74B8AE06-C245-45F6-B5F5-BAC720C543EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74B8AE06-C245-45F6-B5F5-BAC720C543EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74B8AE06-C245-45F6-B5F5-BAC720C543EC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BEA55CF7-8E5F-4F56-BA9D-B28DA2A3137A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BEA55CF7-8E5F-4F56-BA9D-B28DA2A3137A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BEA55CF7-8E5F-4F56-BA9D-B28DA2A3137A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BEA55CF7-8E5F-4F56-BA9D-B28DA2A3137A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E125C843-54D8-4490-8E7B-1D9CAA4A2063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E125C843-54D8-4490-8E7B-1D9CAA4A2063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E125C843-54D8-4490-8E7B-1D9CAA4A2063}.Release|Any CPU.ActiveCfg = Release|Any CPU

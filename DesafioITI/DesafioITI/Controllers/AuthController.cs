@@ -1,5 +1,5 @@
 ﻿using DesafioITI.Domain;
-using DesafioITI.Service.Interfaces;
+using DesafioITI.Domain.Builder.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DesafioITI.Api.Controllers

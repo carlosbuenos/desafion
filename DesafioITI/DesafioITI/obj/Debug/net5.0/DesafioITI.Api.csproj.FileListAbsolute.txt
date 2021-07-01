@@ -27,8 +27,6 @@ C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI\obj\Debug\net5.
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI\obj\Debug\net5.0\ref\DesafioITI.Api.dll
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI\obj\Debug\net5.0\DesafioITI.Api.pdb
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI\obj\Debug\net5.0\DesafioITI.Api.genruntimeconfig.cache
-C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI\bin\Debug\net5.0\DesafioITI.CrossCutting.dll
-C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI\bin\Debug\net5.0\DesafioITI.CrossCutting.pdb
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI\bin\Debug\net5.0\DesafioITI.Api.xml
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI\bin\Debug\net5.0\DesafioITI.Domain.dll
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI\bin\Debug\net5.0\DesafioITI.Domain.pdb

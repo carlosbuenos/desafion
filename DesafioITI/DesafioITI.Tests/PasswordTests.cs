@@ -1,8 +1,6 @@
-﻿using DesafioITI.Service.ConcreteObjects;
-using DesafioITI.Service.Interfaces;
-using Moq;
+﻿using DesafioITI.Domain.Builder.ConcreteObjects;
+using DesafioITI.Domain.Builder.Interfaces;
 using System.Collections.Generic;
-using System.Linq;
 using Xunit;
 
 namespace DesafioITI.Tests

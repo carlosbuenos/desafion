@@ -1,9 +1,5 @@
-﻿using DesafioITI.Service.Interfaces;
-using System;
+﻿using DesafioITI.Domain.Builder.Interfaces;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DesafioITI.Domain
 {

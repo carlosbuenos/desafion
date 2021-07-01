@@ -1,5 +1,5 @@
-﻿using DesafioITI.Service.ConcreteObjects;
-using DesafioITI.Service.Interfaces;
+﻿using DesafioITI.Domain.Builder.ConcreteObjects;
+using DesafioITI.Domain.Builder.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace DesafioITI.Api.IoC

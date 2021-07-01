@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "DesafioITI.Tests/1.0.0": {
         "dependencies": {
-          "DesafioITI.CrossCutting": "1.0.0",
+          "DesafioITI.Domain": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.6.1",
           "Moq": "4.16.1",
           "System.IO.Compression": "4.3.0",
@@ -1196,9 +1196,9 @@
           "Microsoft.NET.Test.Sdk": "16.6.1"
         }
       },
-      "DesafioITI.CrossCutting/1.0.0": {
+      "DesafioITI.Domain/1.0.0": {
         "runtime": {
-          "DesafioITI.CrossCutting.dll": {}
+          "DesafioITI.Domain.dll": {}
         }
       }
     }
@@ -1902,7 +1902,7 @@
       "path": "xunit.runner.visualstudio/2.4.1",
       "hashPath": "xunit.runner.visualstudio.2.4.1.nupkg.sha512"
     },
-    "DesafioITI.CrossCutting/1.0.0": {
+    "DesafioITI.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

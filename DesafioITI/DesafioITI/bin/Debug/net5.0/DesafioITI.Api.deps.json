@@ -33,7 +33,6 @@
     ".NETCoreApp,Version=v5.0": {
       "DesafioITI.Api/1.0.0": {
         "dependencies": {
-          "DesafioITI.CrossCutting": "1.0.0",
           "DesafioITI.Domain": "1.0.0",
           "Swashbuckle.AspNetCore": "6.1.4",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -386,18 +385,7 @@
           "lib/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         }
       },
-      "DesafioITI.CrossCutting/1.0.0": {
-        "runtime": {
-          "DesafioITI.CrossCutting.dll": {}
-        },
-        "compile": {
-          "DesafioITI.CrossCutting.dll": {}
-        }
-      },
       "DesafioITI.Domain/1.0.0": {
-        "dependencies": {
-          "DesafioITI.CrossCutting": "1.0.0"
-        },
         "runtime": {
           "DesafioITI.Domain.dll": {}
         },
@@ -2152,11 +2140,6 @@
       "sha512": "sha512-Ue8Ag73DOXPPB/NCqT7oN1PYSj35IETWROsIZG9EbwAtFDcgonWOrHbefjMFUGyPalNm6CSmVm1JInpURnxMgw==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.1.4",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
-    },
-    "DesafioITI.CrossCutting/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "DesafioITI.Domain/1.0.0": {
       "type": "project",

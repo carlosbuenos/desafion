@@ -73,22 +73,9 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "DesafioITI.CrossCutting/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/DesafioITI.CrossCutting.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DesafioITI.CrossCutting.dll": {}
-        }
-      },
       "DesafioITI.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "DesafioITI.CrossCutting": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/DesafioITI.Domain.dll": {}
         },
@@ -215,11 +202,6 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "DesafioITI.CrossCutting/1.0.0": {
-      "type": "project",
-      "path": "../DesafioITI.Service/DesafioITI.CrossCutting.csproj",
-      "msbuildProject": "../DesafioITI.Service/DesafioITI.CrossCutting.csproj"
-    },
     "DesafioITI.Domain/1.0.0": {
       "type": "project",
       "path": "../DesafioITI.Domain/DesafioITI.Domain.csproj",
@@ -228,7 +210,6 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "DesafioITI.CrossCutting >= 1.0.0",
       "DesafioITI.Domain >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.1.4"
     ]
@@ -267,9 +248,6 @@
           "projectReferences": {
             "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj": {
               "projectPath": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Domain\\DesafioITI.Domain.csproj"
-            },
-            "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Service\\DesafioITI.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\CarlosRobertoCardoso\\source\\repos\\DesafioITI\\DesafioITI.Service\\DesafioITI.CrossCutting.csproj"
             }
           }
         }

@@ -1,4 +1,3 @@
-C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug\net5.0\DesafioITI.CrossCutting.dll
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\obj\Debug\net5.0\DesafioITI.Tests.csprojAssemblyReference.cache
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\obj\Debug\net5.0\DesafioITI.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\obj\Debug\net5.0\DesafioITI.Tests.AssemblyInfoInputs.cache
@@ -7,7 +6,6 @@ C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug\net5.0\DesafioITI.Tests.dll
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug\net5.0\ref\DesafioITI.Tests.dll
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug\net5.0\DesafioITI.Tests.pdb
-C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug\net5.0\DesafioITI.CrossCutting.pdb
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\obj\Debug\net5.0\DesafioITI.Tests.csproj.CoreCompileInputs.cache
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\obj\Debug\net5.0\DesafioITI.Tests.csproj.CopyComplete
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\obj\Debug\net5.0\DesafioITI.Tests.dll
@@ -102,3 +100,5 @@ C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\obj\Debug\net5.0\DesafioITI.Tests.genruntimeconfig.cache
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug\net5.0\DesafioITI.Domain.dll
+C:\Users\CarlosRobertoCardoso\source\repos\DesafioITI\DesafioITI.Tests\bin\Debug\net5.0\DesafioITI.Domain.pdb

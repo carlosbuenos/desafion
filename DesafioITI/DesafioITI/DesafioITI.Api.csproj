@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DesafioITI.Domain\DesafioITI.Domain.csproj" />
-    <ProjectReference Include="..\DesafioITI.Service\DesafioITI.CrossCutting.csproj" />
   </ItemGroup>
 
 </Project>
